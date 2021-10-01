@@ -2,7 +2,7 @@
 
 ## Basic Info
 * **Name**: Davi Rodrigues
-* **Age**: 17
+* **Age**: 18
 * **Most experienced stack**: Python - Flask - REST APIs
 
 - 🔭 I’m currently working on projects for my portfolio
