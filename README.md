@@ -5,7 +5,7 @@
 * **I like to code with**: Python - Flask - APIs
 
 - 🔭 I’m currently working on projects for my portfolio
-- 🌱 I’m currently learning databases and getting better at what I do
+- 🌱 I’m always learning and getting better at what I do
 - 📫 You can reach me at: [daviirodrig@gmail.com](mailto:daviirodrig@gmail.com)
 #
 <div align="center">
