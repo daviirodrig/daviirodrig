@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on projects for my portfolio
 - 🌱 I’m always learning and getting better at what I do
 - 📫 You can reach me at: [daviirodrig@gmail.com](mailto:daviirodrig@gmail.com)
+- ✏️ For less formal inquiries, dm me on [Twitter](https://twitter.com/daviirodrig)
 #
 <div align="center">
     <a href="https://gist.github.com/daviirodrig">
