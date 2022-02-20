@@ -2,7 +2,7 @@
 
 * **Name**: Davi Rodrigues
 * **Age**: 18
-* **I like to code with**: Python - Flask - Node.js - APIs 
+* **I like to code with**: Python - Flask - Node.js - NestJS - APIs 
 
 - 🔭 I’m currently working on projects for my portfolio
 - 🌱 I’m always learning and getting better at what I do
