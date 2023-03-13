@@ -13,12 +13,6 @@
     <a href="https://gist.github.com/daviirodrig">
   <img align="center" src="https://img.shields.io/badge/-Gist-555859?style=for-the-badge&logo=Github&logoColor=white&link=https://gist.github.com/daviirodrig" />
   </a>
-    <a href="https://www.linkedin.com/in/daviirodrig/">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daviirodrig" />
-  </a>
-    <a href="mailto:daviirodrig@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:daviirodrig@gmail.com" />
-  </a>
 </div>
 <br>
 <p align="center">
