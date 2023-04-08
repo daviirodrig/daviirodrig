@@ -2,7 +2,7 @@
 
 * **Name**: Davi Rodrigues
 * **Age**: 19
-* **I like to code with**: Python - Node.js - NestJS - APIs - Flutter
+* **I like to code with**: Python - Node.js - NestJS - APIs - Flutter - Godot Engine
 
 - 🔭 I’m currently working on projects for my portfolio
 - 🌱 I’m always learning and getting better at what I do
