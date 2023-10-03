@@ -1,7 +1,7 @@
 # <p align="center"> hello 👋 </p>
 
 * **Name**: Davi Rodrigues
-* **Age**: 19
+* **Age**: 20
 * **I like to code with**: Python - Node.js - NestJS - APIs - Flutter - Godot Engine or anything that comes to mind, idc
 
 - 🔭 I’m currently working on projects for my portfolio
