@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on projects for my portfolio
 - 🌱 I’m always learning and getting better at what I do
-- 📫 You can reach me at: [daviirodrig@gmail.com](mailto:daviirodrig@gmail.com)
+- 📫 You can reach me at: [me@justdavi.dev](mailto:me@justdavi.dev)
 - ✏️ For less formal inquiries, dm me on [Twitter](https://twitter.com/daviirodrig)
 #
 <div align="center">
